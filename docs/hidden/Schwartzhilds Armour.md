@@ -12,7 +12,7 @@ password: XE01-0.503
 > **Type**: Projected Personal Armour
 > **Tech Level**: FFT+
 > 
-> A type of projected armour that utilizes multiple redundant [[../notes/Eschers Field|Escher's Devices]] for protection.
+> A type of projected armour that utilizes multiple redundant [[Eschers Field|Escher's Devices]] for protection.
 ---
 
 **Related Notes:** 
