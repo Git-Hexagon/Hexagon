@@ -5,18 +5,20 @@ share: true
 category: home
 ---
 
-<H2>Welcome to the Encyclopaedia,</H2><h3>High Officer ███████.</h3>
+## Welcome to the Encyclopaedia,
+### High Officer ███████.
 
-#### Current Happenings
+---
+#### <u>Current Happenings</u>
 - None
 
-#### Plans
+#### <u>Plans</u>
 - None
 
-#### Combat Situations
+#### <u>Combat Situations</u>
 - None
 
-#### News
+#### <u>News</u>
 - <u>The Encyclopaedia is currently indexing all entries.</u> Some entries may be unavailable at this time.
 	- <u>Officers and above may request for the reinstatement of desired entries.</u>
 
