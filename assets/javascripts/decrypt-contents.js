@@ -31,7 +31,40 @@ function decrypt_content(password, iv_b64, ciphertext_b64, padding_char) {
     }
 };
 
+/* Set key:value with expire time in localStorage */
+function setItemExpiry(key, value, ttl) {
+    const now = new Date()
+    const item = {
+        value: encodeURIComponent(value),
+        expiry: now.getTime() + ttl,
+    }
+    localStorage.setItem('encryptcontent_' + encodeURIComponent(key), JSON.stringify(item))
+};
 
+/* Delete key with specific name in localStorage */
+function delItemName(key) {
+    localStorage.removeItem('encryptcontent_' + encodeURIComponent(key));
+};
+
+/* Get key:value from localStorage */
+function getItemExpiry(key) {
+    var remember_password = localStorage.getItem('encryptcontent_' + encodeURIComponent(key));
+    if (!remember_password) {
+        // fallback to search default password defined by path
+        var remember_password = localStorage.getItem('encryptcontent_' + encodeURIComponent("/"));
+        if (!remember_password) {
+            return null
+        }
+    }
+    const item = JSON.parse(remember_password)
+    const now = new Date()
+    if (now.getTime() > item.expiry) {
+        // if the item is expired, delete the item from storage and return null
+        localStorage.removeItem('encryptcontent_' + encodeURIComponent(key))
+        return null
+    }
+    return decodeURIComponent(item.value)
+};
 
 /* Reload scripts src after decryption process */
 function reload_js(src) {
@@ -123,7 +156,7 @@ function decrypt_action(password_input, encrypted_content, decrypted_content) {
         // create HTML element for the inform message
         var decrypt_msg = document.createElement('p');
         decrypt_msg.setAttribute('id', 'mkdocs-decrypt-msg');
-        var node = document.createTextNode('Invalid password.');
+        var node = document.createTextNode('Invalid access code.');
         decrypt_msg.appendChild(node);
         var mkdocs_decrypt_msg = document.getElementById('mkdocs-decrypt-msg');
         // clear all previous failure messages
@@ -149,7 +182,22 @@ function init_decryptor() {
     input.setAttribute('size', input.getAttribute('placeholder').length);
     
 
-    
+    /* If remember_password is set, try to use localstorage item to decrypt content when page is loaded */
+    var password_cookie = getItemExpiry(window.location.pathname);
+    if (password_cookie) {
+        password_input.value = password_cookie;
+        var content_decrypted = decrypt_action(
+            password_input, encrypted_content, decrypted_content
+        );
+        if (content_decrypted) {
+            // continue to decrypt others parts
+            
+            
+        } else {
+            // remove item on localStorage if decryption process fail (Invalid item)
+            delItemName(window.location.pathname)
+        }
+    };
 
     /* If password_button is set, try decrypt content when button is press */
     if (decrypt_button) {
@@ -159,7 +207,8 @@ function init_decryptor() {
                 password_input, encrypted_content, decrypted_content
             );
             if (content_decrypted) {
-                
+                // keep password value on localStorage with specific path (relative)
+                setItemExpiry(document.location.pathname, password_input.value, 1000*3600*24);
                 // continue to decrypt others parts
                 
                 
@@ -183,7 +232,8 @@ function init_decryptor() {
                 password_input, encrypted_content, decrypted_content
             );
             if (content_decrypted) {
-                
+                // keep password value on localStorage with specific path (relative)
+                setItemExpiry(location_path, password_input.value, 1000*3600*24);
                 // continue to decrypt others parts
                 
                 
