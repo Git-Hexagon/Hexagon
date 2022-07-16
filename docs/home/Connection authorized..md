@@ -16,7 +16,9 @@ category: home
 #### Combat Situations
 - None
 
-
+#### News
+- **The Encyclopaedia is currently indexing all entries.** Some entries may be unavailable at this time.
+	- **Officers and above may request for the reinstatement of desired entries.**
 
 ---
 
