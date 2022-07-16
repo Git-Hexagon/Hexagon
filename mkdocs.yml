@@ -6,7 +6,7 @@ theme:
     name: 'material'
     logo: assets/images/favicons.png
     favicon: assets/images/favicons.png
-    custom_dir: home/Mainframe/
+    custom_dir: override
     font:
         text: Karla
         code: Ubuntu Mono
