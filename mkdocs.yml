@@ -1,6 +1,6 @@
 site_name: Hex Wikidocs
 site_description: The Hexagon Wiki
-site_url: https://githexagon.github.io/wiki/
+site_url: https://git-hexagon.github.io/Hexagon/
 
 theme:
     name: 'material'
