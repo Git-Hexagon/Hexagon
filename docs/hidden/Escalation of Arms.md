@@ -4,6 +4,7 @@ type:
 aliases: Escalation Protocol
 date: 13-07-2022
 share: true
+category: hidden
 ---
 
 > A state of alert that's automatically calculated by onboard mainframe modules situated within the command and control vessels. Controls the quality and quantity of units to be deployed into battle.
@@ -31,5 +32,3 @@ The Regime, learning from the wars that their predecessor organization has parti
 | 4                   | **Units are to be equipped with basic equipment and given medium vehicles.** Higher clearance equipment are to be provided with required. **Sanckht-class vessels are to be deployed.** Lower-tier Ceryn-class vessels are to be put on standby. <br><br> Dynamic State is to be raised to $B$ should the conflict expand to a region equal to or larger than a quarter of the galaxy, and to $C$ if the conflict extends to regions equal to or larger than half of the galaxy. When conflict is expected to spread to the entire galaxy, $Dynamic\, State\, Y$ is to be announced to all active agents within the local galaxy group.                     | $A$, $B$, $C$, $Y$                 | Conflict against more than five Type II Civilizations                 |
 | 3                   | **Units are to be equipped with basic equipment and given light vehicles. Combat-type Sanckht-class vessels are to be deployed when required.** <br><br> Dynamic State will be raised to $B$ should the conflict either spread to at least 10 parsecs OR if there are more than five Type I civilizations involved OR if there is at least one Type II civilization involved, and to $C$ if at least five Type II Civilizations were to be involved.                                                                                                                                                                                                    | $A$, $B$, $C$                      | Conflict against less than five Type I Civilizations                  |
 | 2                   | **Units are to be equipped with light equipment and given light vehicles.** <br><br> Dynamic State will be raised in the event of a continent-wide ($B$) and planet-wide ($C$) conflict. When system-wide threshold is crossed, $Dynamic\, State\, X$ is to be announced to every agent within five parsecs of the conflict point.                                                                                                                                                                                                                                                                                                                      | $A$, $B$, $C$, $X$                 | Region-wide Peace Time                                                |
-
-$Dynamic\, State\, A_9$
