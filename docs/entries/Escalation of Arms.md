@@ -4,7 +4,6 @@ type:
 aliases: Escalation Protocol
 date: 13-07-2022
 share: true
-category: hidden
 ---
 
 > A state of alert that's automatically calculated by onboard mainframe modules situated within the command and control vessels. Controls the quality and quantity of units to be deployed into battle.
@@ -18,7 +17,7 @@ The Regime, learning from the wars that their predecessor organization has parti
 
 **These modules take in real-time data from units currently participating in combat, and mobilizes the necessary agents and vessels accordingly.**
 *Should 60% of the currently deployed forces be destroyed, the Escalation Protocol would be activated and the state of escalation is immediately advanced by one level, up to $Dynamic\, State\, C_{10}$.*
-*Should the data gathering vessels be destroyed before the main forces arrive, the state of escalation is raised immediately to $Dynamic\, State\, Z_6^1$.*
+*Should the data gathering vessels be destroyed before the main forces arrive, the state of escalation is raised immediately to $Dynamic\, State\, Z^1_6$.*
 
 | Stage of Escalation | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Dynamic State Progression          | Prerequisites                                                         |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------------- |
