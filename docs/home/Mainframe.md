@@ -19,7 +19,7 @@ category: home
 
 #### <u>News</u>
 - <u>The Encyclopaedia is currently indexing all entries.</u> Some entries may be unavailable at this time.
-	- <u>Visitors may request for the reinstatement of desired entries that are normally accessible according to their clearance.</u>
+	- <u>Visitors may request the reinstatement of their desired entries that were previously accessible according to their clearance. </u>
 
 ---
 
