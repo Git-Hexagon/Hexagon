@@ -5,8 +5,7 @@ share: true
 category: home
 ---
 
-## Welcome to the Encyclopaedia,
-### High Officer ███████.
+## Welcome to the Encyclopaedia.
 
 ---
 #### <u>Current Happenings</u>
@@ -20,7 +19,7 @@ category: home
 
 #### <u>News</u>
 - <u>The Encyclopaedia is currently indexing all entries.</u> Some entries may be unavailable at this time.
-	- <u>Officers and above may request for the reinstatement of desired entries.</u>
+	- <u>Visitors may request for the reinstatement of desired entries that are normally accessible according to their clearance.</u>
 
 ---
 
