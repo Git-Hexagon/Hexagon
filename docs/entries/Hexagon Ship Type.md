@@ -18,7 +18,7 @@ There are several space vessels that the Hexagon and the Regime have utilised ov
 ## Superstructure Variants
 
 ### Citadel
-The **Citadel** is a large, usually non-combat artificially built star-ship outpost designed to dock, supply, and warp in Hexagon/Regime units and vessels. Easily the largest superstructure within the Hexagon/Regime fleets, it was the core outpost for every Hexagon galactic territory beyond their home universe. However, in the Immortal Regime, it's rarely deployed more than once in a galaxy group, however Collapse Citadels will always be found in every universe. There are combat-class Citadels, however, these Citadels are extremely rare, and are only deployed simply due to an escalation of arms.
+The **Citadel** is a large, usually non-combat artificially built star-ship outpost designed to dock, supply, and warp in Hexagon/Regime units and vessels. Easily the largest superstructure within the Hexagon/Regime fleets, it was the core outpost for every Hexagon galactic territory beyond their home universe. However, in the Apeirogon Regime, it's rarely deployed more than once in a galaxy group, however Collapse Citadels will always be found in every universe. There are combat-class Citadels, however, these Citadels are extremely rare, and are only deployed simply due to an escalation of arms.
 
 #### Types of Citadels
 Anchor Citadel
@@ -39,7 +39,7 @@ Void Citadel
 
 Acquisition Citadel
 > Expansion Vessel
-> Used to create Nexus' for resource acquisition. Has no offensive capabilities.
+> Used to create Nexus Superstructures for resource acquisition. Has no offensive capabilities.
 
 *Grand Citadel*
 > Support Vessel/Mobile Outpost
@@ -130,21 +130,9 @@ Void Gate
 
 **Vetzcht**
 > Specialised Support-Combat Vessel
-> A sub-category that contains most smaller combat vessels that have a specialised purpose.
+> A sub-category that contains most smaller combat vessels with specialised purposes.
 >  - *Containment Vetzcht*
 >  - *Expedition Vetzcht*
 >  - *Medical Vetzcht*
 >  - *Rift Vetzcht*
 >  - *Interlink Vetzcht*
-> - **Leann**
-> 	- \<Data still transmitting>
-> - **Derum**
-> 	- \<Data still transmitting>
-> - **Palann**
-> 	- \<Data still transmitting>
-> - **Cydht**
-> 	- \<Data still transmitting>
-> - **Pens**
-> 	- \<Data still transmitting>
-> - **Jeght**
-> 	- \<Data still transmitting>
