@@ -7,13 +7,13 @@ share: true
 ---
 
 > These are the Hexagon and the Regime's widely used ship variants.
+> 
+> Vessels in *italics* are Post-Shatter Vessels, and are unique to the Immortal Regime. 
 ---
 
 **Related Notes:** 
 
-There are several space vessels that the Hexagon and the Regime have utilised over the course of their active service. Due to how widespread the Hexagon/Regime are in the Multiverse and beyond, major territorial hotspots have vastly different vessels and ships when compared to the other. However, at the most basic level, these are the most major variants of such vessels.
-
-Vessels in *italics* are Post-Shatter Vessels, and are unique to the Immortal Regime. 
+There are several space vessels that the Hexagon and the Regime have utilised over the course of their active service. Due to how widespread the Hexagon/Regime are in the Multiverse and beyond, major territorial hot-spots have vastly different vessels and ships when compared to the other. However, at the most basic level, these are the most major variants of such vessels.
 
 ## Superstructure Variants
 
@@ -21,30 +21,37 @@ Vessels in *italics* are Post-Shatter Vessels, and are unique to the Immortal Re
 The **Citadel** is a large, usually non-combat artificially built star-ship outpost designed to dock, supply, and warp in Hexagon/Regime units and vessels. Easily the largest superstructure within the Hexagon/Regime fleets, it was the core outpost for every Hexagon galactic territory beyond their home universe. However, in the Immortal Regime, it's rarely deployed more than once in a galaxy group, however Collapse Citadels will always be found in every universe. There are combat-class Citadels, however, these Citadels are extremely rare, and are only deployed simply due to an escalation of arms.
 
 #### Types of Citadels
-> - Anchor Citadel
-> 	- Support Vessel/Mobile Outpost
-> 	- Used to serve as a refuelling and resupply station for Hexagon and allied vessels. Usually immobile. Has no offensive capabilities.
-> - Relay Citadel
-> 	- Support Vessel/Mobile Outpost
-> 	- Used to serve as a warp station for Hexagon vessels. Usually immobile. Has decent offensive capabilities.
-> - Hive Citadel
-> 	- Support Vessel
-> 	- Used to serve as a refuelling and resupply station for Hexagon and allied vessels within combat areas. Has minimal offensive capabilities.
-> - Void Citadel
-> 	- Combat Vessel
-> 	- Used to break through heavily defended areas using superior firepower.
-> - Acquisition Citadel
-> 	- Expansion Vessel
-> 	- Used to create Nexus' for resource acquisition. Has no offensive capabilities.
-> - *Grand Citadel*
-> 	- Support Vessel/Mobile Outpost
-> 	- A combination of the past Anchor and Relay Citadels. Deploys a galaxy-wide area of interference around it, which disrupts enemy communications/relays. Area of interference is further propagated by *Stellar Spires*, allowing for a much wider area of protection against hostile FTL and communications. Has decent offensive capabilities.
-> - *Collapse Citadel*
-> 	- Support Vessel
-> 	- A specialised Citadel carrying a Multiversal-Range Void Interference Module. Heavily armed and protected, this is a critical part of the Regime's transportation beyond their Multiverse.
-> - *Crypt Citadel*
-> 	- Support Vessel
-> 	- A unique Citadel used to contain extremely dangerous artefacts and entities for transport. It's run by a skeleton crew of humans or machines, depending on the artefact or entity that's being transported. Once compromised, the Citadel releases a massive Void charge, erasing it and everything within a parsec around it. Has extremely overpowering offensive capabilities.
+Anchor Citadel
+> Support Vessel/Mobile Outpost
+> Used to serve as a refuelling and resupply station for Hexagon and allied vessels. Usually immobile. Has no offensive capabilities.
+
+Relay Citadel
+> Support Vessel/Mobile Outpost
+> Used to serve as a warp station for Hexagon vessels. Usually immobile. Has decent offensive capabilities.
+
+Hive Citadel
+Support Vessel
+Used to serve as a refuelling and resupply station for Hexagon and allied vessels within combat areas. Has minimal offensive capabilities.
+
+Void Citadel
+Combat Vessel
+Used to break through heavily defended areas using superior firepower.
+
+Acquisition Citadel
+Expansion Vessel
+Used to create Nexus' for resource acquisition. Has no offensive capabilities.
+
+*Grand Citadel*
+Support Vessel/Mobile Outpost
+A combination of the past Anchor and Relay Citadels. Deploys a galaxy-wide area of interference around it, which disrupts enemy communications/relays. Area of interference is further propagated by *Stellar Spires*, allowing for a much wider area of protection against hostile FTL and communications. Has decent offensive capabilities.
+
+*Collapse Citadel*
+Support Vessel
+A specialised Citadel carrying a Multiversal-Range Void Interference Module. Heavily armed and protected, this is a critical part of the Regime's transportation beyond their Multiverse.
+
+*Crypt Citadel*
+Support Vessel
+A unique Citadel used to contain extremely dangerous artefacts and entities for transport. It's run by a skeleton crew of humans or machines, depending on the artefact or entity that's being transported. Once compromised, the Citadel releases a massive Void charge, erasing it and everything within a parsec around it. Has extremely overpowering offensive capabilities.
 
 
 ### Spire
@@ -116,3 +123,15 @@ The **Citadel** is a large, usually non-combat artificially built star-ship outp
 > 		- *Medical Vetzcht*
 > 		- *Rift Vetzcht*
 > 		- *Interlink Vetzcht*
+> - **Leann**
+> 	- \<Data still transmitting>
+> - **Derum**
+> 	- \<Data still transmitting>
+> - **Palann**
+> 	- \<Data still transmitting>
+> - **Cydht**
+> 	- \<Data still transmitting>
+> - **Pens**
+> 	- \<Data still transmitting>
+> - **Jeght**
+> 	- \<Data still transmitting>
