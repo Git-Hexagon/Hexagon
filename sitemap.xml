@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://git-hexagon.github.io/Hexagon/entries/Escalation%20of%20Arms/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://git-hexagon.github.io/Hexagon/entries/Hexagon%20Mechanized%20Rapid%20Response%20Unit/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-08-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://git-hexagon.github.io/Hexagon/entries/Hexagon%20Ship%20Type/</loc>
+         <lastmod>2022-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://git-hexagon.github.io/Hexagon/hidden/5c.16ns72.p41.0avd/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://git-hexagon.github.io/Hexagon/hidden/ExSAT%20Operatives/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://git-hexagon.github.io/Hexagon/hidden/Root/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://git-hexagon.github.io/Hexagon/hidden/Schwartzhilds%20Armour/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://git-hexagon.github.io/Hexagon/home/Mainframe/</loc>
-         <lastmod>2022-07-24</lastmod>
+         <lastmod>2022-08-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
