@@ -127,6 +127,6 @@ extra_css:
     - assets/css/custom_attributes.css
     - assets/css/customization.css
 extra:
-  homepage: https://git-hexagon.github.io/Hexagon/home/Mainframe/
+  homepage: https://git-hexagon.github.io/Hexagon/home/---/
   generator: false
   SEO: assets/logo/SEO.png
