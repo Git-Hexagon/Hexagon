@@ -126,6 +126,7 @@ extra_css:
     - assets/css/admonition.css
     - assets/css/custom_attributes.css
     - assets/css/customization.css
+    md-footer__inner { display: none }
 extra:
   homepage: https://git-hexagon.github.io/Hexagon/home/---/
   generator: false
