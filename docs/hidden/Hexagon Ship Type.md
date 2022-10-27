@@ -42,7 +42,7 @@ Acquisition Citadel
 > Expansion Vessel
 > Used to create Nexus Superstructures for resource acquisition. Has no offensive capabilities.
 
-*Grand Citadel*
+*Grand Citadel* ^e8486a
 > Support Vessel/Mobile Outpost
 > A combination of the past Anchor and Relay Citadels. Deploys a galaxy-wide area of interference around it, which disrupts enemy communications/relays. Area of interference is further propagated by *Stellar Spires*, allowing for a much wider area of protection against hostile FTL and communications. Has decent offensive capabilities.
 
