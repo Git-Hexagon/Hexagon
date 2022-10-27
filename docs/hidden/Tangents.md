@@ -9,7 +9,7 @@ category: hidden
 
 > A unit or formation that's established by Alpha Tangents to perform tasks at a galactic level.
 > 
-> These are organized fleets of vessels capable of conducting land, space, and interdimensional military actions. Tangents are usually led by a [[Hexagon Ship Type#^e8486a|Grand Citadel]] near the centre of the galaxy, which contains a direct Interlink connection to the main Alpha-Tangent.
+> These are organized fleets of vessels capable of conducting land, space, and interdimensional military actions. Tangents are usually led by a [[Hexagon Ship Type#Citadel|Grand Citadel]] near the centre of the galaxy, which contains a direct Interlink connection to the main Alpha-Tangent.
 ---
 
 **Related Notes:** 
