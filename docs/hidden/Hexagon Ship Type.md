@@ -9,7 +9,7 @@ category: hidden
 
 > These are the Hexagon and the Regime's widely used ship variants.
 > 
-> Vessels in *italics* are Post-Shatter Vessels, and are unique to the Apeirogon Regime. 
+> Vessels in *italics* are Post-Shatter Vessels, and are unique to the Neo-Hexagon and the Greater Apeirogon Regime. 
 ---
 
 **Related Notes:** 
@@ -113,6 +113,9 @@ Void Gate
 
 **Gradht**
 > Lean and slim vessels capable of masking most detectable signals of Hexagon vessels through specialised MARS. Other specialised Gradht are capable of creating decoy signals, illusion ships, and many more.
+##### Known Gradht Specialisations
+**Surveyor and Support**
+> Slimmer, less powerful Gradht equipped with extremely sensitive data gathering equipment. Utilised mainly by Pre-Combat Tangents, Surveyor and Support vessels mainly operate with little to no offensive capabilities, depending on their escorts to survive.
 
 **Rukht**
 > Large and bulky vessels capable of connecting to the Interlink. Generally follows behind the fleet, and protected by a large assortment of unmanned drones and fighters, Rukhts act as mobile ship producers of the fleet, allowing them to take material and personnel from the Interlink and fabricate necessary ships when needed.
