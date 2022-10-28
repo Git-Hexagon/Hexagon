@@ -20,7 +20,7 @@ Agents in the field have the ability to change the power output of their weapon,
 
 Capable of firing 6.4x27 HKP-01 Kinetic Penetrator slugs at a fire-rate of about 250 rounds per minute, it's used to pick off targets—armoured or not—in ranges less than three kilometres or so.
 
-#### Variants
+#### Variants of the Expeditionary PDW
 #####  'C1.13-01A'
 The C1.13-01A variant of the Expeditionary is moderately-strong automatic coil-gun designed with the intent of creating a powerful and accurate weapon for standard battle-agents. Capable of firing 6.4mm HKP-01 Kinetic Penetrator slugs at a fire-rate of about 650 rounds per minute, it's mainly used against groups of unarmoured targets or to disable moderately armoured vehicles at ranges less than two kilometres or so.
 
