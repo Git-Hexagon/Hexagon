@@ -1,7 +1,7 @@
 ---
 tags: hexagon/equipment
 type: weapon
-aliases: Standard Coil-Operated Ballistic Weapon, Semi-Automatic Personal Defense Weapon, Mold 1/Iteration 13 (C1.13-00)
+aliases: Coil-Operated Ballistic Weapon, Standard Semi-Automatic Personal Defense Weapon, Mold 1/Iteration 13 (C1.13-00)
 date: 28-10-2022
 share: true
 category: hidden
