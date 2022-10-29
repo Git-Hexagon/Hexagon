@@ -1,7 +1,7 @@
 ---
 tags: hexagon/equipment
 type: 
-aliases: Chronodynamic Exterior Personal Physical Armour, Underwear, Structure 1.1-1.4, 2X, 3X, 4X — Mold 9/Iteration 6 (BA9.6-00)
+aliases: Chronodynamic Exterior Personal Physical Armour, Underwear Structure 1.1-1.4, 2X, 3X, 4X — Mold 9/Iteration 6 (BA9.6-00)
 date: 29-10-2022
 share: true
 category: hidden
