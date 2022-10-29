@@ -34,7 +34,7 @@ Most Common Variant: (database code: u3Y6vb [004])
 #### Recommended Procedures
 > In the case of an unintentional outbreak, the planet must immediately be designated as a Level 14 biohazard, and must either be abandoned or completely wiped out with a singular Void explosion.
 > 
-> Should the planet be important enough for the Hexagon to leave behind, an Emergency Response Tangent must be called to assess the situation. Due to how quickly and easily it can propagate, a one-hundred square kilometre area must be designated as a red-zone for every microlitre of Anathema that has been leaked.
+> Should the planet be important enough for the Hexagon to leave behind, an Emergency Response Tangent must be called to assess the situation. Due to how quickly and easily it can propagate, a one-hundred square kilometre area must be designated as a biologically contaminated dead zone for every microlitre of Anathema that has been leaked.
 > 
 > Infected personnel cannot be cured without the complete replacement of every cell, material, and fluid in the body, all at once.
 > 
