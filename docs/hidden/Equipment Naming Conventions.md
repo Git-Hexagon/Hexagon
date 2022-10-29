@@ -58,7 +58,7 @@ category: hidden
 > It allows agents to quickly identify the equipment's classification for quick searches in the database.
 
 > [!abstract]- Examples
-> > (SDCBW)SA_PDW-Md.1 In.13 Expeditionary [2S(B)]
+> > (CBW)SDSA_PDW-Md.1 In.13 Expeditionary [2S(B)]
 > > Mould 1/Iteration 13
 > > C1.13-02S(B)
 > 
