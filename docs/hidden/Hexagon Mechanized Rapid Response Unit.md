@@ -9,7 +9,7 @@ category: hidden
 > **Clearance**: T4.R120+
 > **Tech Level**: FFT+
 > 
-> A reserve unit that's utilized in invasions, quick assaults, and lightning invasions.
+> A reserve unit that's utilized in defences, quick assaults, and lightning fast invasions.
 ---
 
 **Related Notes:** 
