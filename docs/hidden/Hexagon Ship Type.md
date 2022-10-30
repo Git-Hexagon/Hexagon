@@ -42,7 +42,7 @@ Acquisition Citadel
 > Expansion Vessel
 > Used to create Nexus Superstructures for resource acquisition. Has no offensive capabilities.
 
-*Grand Citadel* ^e8486a
+*Grand Citadel* 
 > Support Vessel/Mobile Outpost
 > A combination of the past Anchor and Relay Citadels. Deploys a galaxy-wide area of interference around it, which disrupts enemy communications/relays. Area of interference is further propagated by *Stellar Spires*, allowing for a much wider area of protection against hostile FTL and communications. Has decent offensive capabilities.
 
@@ -113,12 +113,13 @@ Void Gate
 
 **Gradht**
 > Lean and slim vessels capable of masking most detectable signals of Hexagon vessels through specialised MARS. Other specialised Gradht are capable of creating decoy signals, illusion ships, and many more.
-##### Known Gradht Specialisations
-**Surveyor and Support**
-> Slimmer, less powerful Gradht equipped with extremely sensitive data gathering equipment. Utilised mainly by Pre-Combat Tangents, Surveyor and Support vessels mainly operate with little to no offensive capabilities, depending on their escorts to survive.
 
 **Rukht**
 > Large and bulky vessels capable of connecting to the Interlink. Generally follows behind the fleet, and protected by a large assortment of unmanned drones and fighters, Rukhts act as mobile ship producers of the fleet, allowing them to take material and personnel from the Interlink and fabricate necessary ships when needed.
+
+##### Known Gradht Specialisations
+**Surveyor and Support**
+> Slimmer, less powerful Gradht equipped with extremely sensitive data gathering equipment. Utilised mainly by Pre-Combat Tangents, Surveyor and Support vessels mainly operate with little to no offensive capabilities, depending on their escorts to survive.
 
 ### *Sanckht*
 **Sanckht** are easily mass-produced combat vessels designed by the Regime for a large assortment of combat purposes. While more of a general classification than an actual ship type, Sanckht are divided into several types, which excel in their appropriate duties and purposes.
