@@ -32,4 +32,5 @@ category: hidden
 > - ***Gehenna's 8th Expeditionary Microtangent***
 > - ***Gehenna's 9th Expeditionary Microtangent***
 > - ***Gehenna's 10th Expeditionary Microtangent***
+> - ***Gehenna's 11th Expeditionary Microtangent***
 > - ***Gehenna's 12th Expeditionary Microtangent***
