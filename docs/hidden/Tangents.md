@@ -12,7 +12,7 @@ category: hidden
 > These are organized fleets of vessels capable of conducting land, space, and interdimensional military actions. Tangents are usually led by a [[Hexagon Ship Type#Citadel|Grand Citadel]] near the centre of the galaxy, which contains a direct Interlink connection to the main Alpha-Tangent.
 ---
 
-**Related Notes:** 
+**Related Notes:** [[Hexagon Unit Structures and Organizations]]
 
 **Tangents** are large units consisting of a multitude of vessels, superstructures, megastructures, military personnel, and robotic units. Led by Grand Citadels, Tangents are capable of operating autonomously and are capable of erecting additional outposts, producer structures, and forward bases to further add to their military capabilities.
 
