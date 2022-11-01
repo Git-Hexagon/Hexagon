@@ -240,13 +240,14 @@ Purity follows a zealous anthropocentric view in a reality of aliens and gods, a
 > 	- Standardized Unmodified Vetzcht Sanckht [90x]
 > 		- ==Standardized Unmodified Vetzcht Sanckht [60x]==
 
-> [!abstract]- Solar Expeditionary Tangent Paradise
-
 > [!abstract]- Solar Expeditionary Tangent Virtue
 
 > [!abstract]- Solar Expeditionary Tangent Integrity
 
-> [!abstract]- Specialised Extermination Tangent Mortality
+> [!abstract]- Combat Expeditionary Tangent Mortality
 
 > [!abstract]- Research Expeditionary Tangent Curiosity
 
+> [!abstract]- [[Autonomous Expeditionary Tangent Paradise]]
+
+> [!abstract]- [[Autonomous Expeditionary Tangent Gehenna]]
