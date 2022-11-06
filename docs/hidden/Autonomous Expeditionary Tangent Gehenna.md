@@ -51,10 +51,10 @@ category: hidden
 **First Void Division**
 - *Specialised Voidbound Command and Control Akadht* [01-24]
 	- Autonomous Voidbound Giwyn Interceptor, Chrono-divergent Auto-fabricator Array [1-4]
-		- 512.00-64-105B(V)
+		- 512.00-64-105(V)
 - *Specialised Voidbound Reactionary Area Control Akadht* [1-6]
 	- Autonomous Voidbound Giwyn Interceptor, Void-reactionary Docking Array [1-20]
-		- 24.00-12-000A(V)
+		- 24.00-12-000(V)
 
 ##### Spaceborne Assets - - -
 ###### In Deployment - -
