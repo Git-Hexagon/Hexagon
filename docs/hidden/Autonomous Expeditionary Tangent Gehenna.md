@@ -10,10 +10,10 @@ category: hidden
 
 > One of the two Autonomous Expeditionary Tangents in [[Alpha Tangent 'Purity'|Purity]], Gehenna is granted the freedom to freely explore areas beyond multiverses. Being part of Purity, Gehenna's main objective is to stage assaults on civilizations harboring inhuman, corruptive, or pseudohuman entities.
 > 
-> Like other tangents, Gehenna will not deploy its entire force into the fray.
+> Like other tangents, Gehenna will not deploy its entire force into combat scenarios.
 ---
 
-**Gehenna** is a large independent expeditionary [[Tangents|tangent]] belonging to Alpha-Tangent Purity.
+**Gehenna** is a large independent expeditionary [[Tangents|tangent]] belonging to Alpha-Tangent Purity. Currently, it has twelve microtangents under its command.
 
 > [!note]- Order of Battle
 > - ***Gehenna's 1st Expeditionary Microtangent***
@@ -34,3 +34,43 @@ category: hidden
 > - ***Gehenna's 10th Expeditionary Microtangent***
 > - ***Gehenna's 11th Expeditionary Microtangent***
 > - ***Gehenna's 12th Expeditionary Microtangent***
+
+### Example of Order of Battle
+---
+<h4><center>Gehenna's 3rd Expeditionary Microtangent</center></h4>
+<i><center>"Live not as beasts; perish not as sinful men."</center></i>
+
+> <u>Led by Our Divine High Seer, Hsr. ████████</u>
+> **Graced by Her Crystal Spire, 'The Conquest of Man'**
+
+##### Extradimensional Assets - - -
+###### In Deployment - -
+
+
+###### In Reserve - -
+**First Void Division**
+- *Specialised Voidbound Command and Control Akadht* [01-24]
+	- Autonomous Voidbound Giwyn Interceptor, Chrono-divergent Auto-fabricator Array [1-4]
+		- 512.00-64-105B(V)
+- *Specialised Voidbound Reactionary Area Control Akadht* [1-6]
+	- Autonomous Voidbound Giwyn Interceptor, Void-reactionary Docking Array [1-20]
+		- 24.00-12-000A(V)
+
+##### Spaceborne Assets - - -
+###### In Deployment - -
+
+
+###### In Reserve - -
+
+
+##### Terrestrial Assets - - -
+###### In Deployment - -
+
+
+###### In Reserve - -
+
+
+
+<b><i><center>Blessed be Our Voyage, we serve you, Greatest Overseer.</center></i></b>
+
+---
