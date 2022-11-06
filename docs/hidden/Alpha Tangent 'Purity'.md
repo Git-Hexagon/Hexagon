@@ -251,3 +251,9 @@ Purity follows a zealous anthropocentric view in a reality of aliens and gods, a
 > [!abstract]- [[Autonomous Expeditionary Tangent Paradise]]
 
 > [!abstract]- [[Autonomous Expeditionary Tangent Gehenna]]
+
+## Military Organizations
+### Humanity's Salvation Guard
+> "Mortal, Steadfast, Divine."
+
+The HSG is a large, multibranched military unit serving under Alpha-Tangent Purity. It is a [[Complex|tessellation]] that encompasses the entirety of the Alpha-Tangent's vehicular, aerial, and infantry power.
