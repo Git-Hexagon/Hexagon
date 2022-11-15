@@ -15,26 +15,6 @@ category: hidden
 
 **Gehenna** is a large independent expeditionary [[Tangents|tangent]] belonging to Alpha-Tangent Purity. Currently, it has twelve microtangents under its command.
 
-> [!note]- Order of Battle
-> - ***Gehenna's 1st Expeditionary Microtangent***
-> 	- **1st Expeditionary's 1st Parsec Division**
-> 	- **1st Expeditionary's 2nd Parsec Division**
-> 	- **1st Expeditionary's 3rd Parsec Division**
-> 	- **1st Expeditionary's 4th Parsec Division**
-> 	- **1st Expeditionary's 1st Void Division**
-> 	- **1st Expeditionary's 2nd Void Division**
-> - ***Gehenna's 2nd Expeditionary Microtangent***
-> - ***Gehenna's 3rd Expeditionary Microtangent***
-> - ***Gehenna's 4th Expeditionary Microtangent***
-> - ***Gehenna's 5th Expeditionary Microtangent***
-> - ***Gehenna's 6th Expeditionary Microtangent***
-> - ***Gehenna's 7th Expeditionary Microtangent***
-> - ***Gehenna's 8th Expeditionary Microtangent***
-> - ***Gehenna's 9th Expeditionary Microtangent***
-> - ***Gehenna's 10th Expeditionary Microtangent***
-> - ***Gehenna's 11th Expeditionary Microtangent***
-> - ***Gehenna's 12th Expeditionary Microtangent***
-
 ### Example of Order of Battle
 ---
 <h4><center>Gehenna's 3rd Expeditionary Microtangent</center></h4>
@@ -49,18 +29,101 @@ category: hidden
 
 ###### In Reserve - -
 **First Void Division**
+- *Ceryn-class, Gradht-type Specialised Void-Anchor Rift Vessel* [1]
 - *Specialised Voidbound Command and Control Akadht* [01-24]
 	- Autonomous Voidbound Giwyn Interceptor, Chrono-divergent Auto-fabricator Array [1-4]
 		- 512.00-64-105(V)
 - *Specialised Voidbound Reactionary Area Control Akadht* [1-6]
 	- Autonomous Voidbound Giwyn Interceptor, Void-reactionary Docking Array [1-20]
-		- 24.00-12-000(V)
+		- 40.00-6-000(V)
+
+**Second Void Division**
+- *Ceryn-class, Gradht-type Specialised Void-Anchor Rift Vessel* [1]
+- *Specialised Voidbound Command and Control Akadht* [01-12]
+	- Autonomous Voidbound Giwyn Interceptor, Chrono-divergent Auto-fabricator Array [1-2]
+		- 256.00-32-105(V)
+- *Specialised Voidbound Attack and Assault Akadht* [1-6]
+	- Autonomous Voidbound Strike Paelor, Chrono-divergent Docking Array [1-20]
+		- 40.00-6-000(V)
 
 ##### Spaceborne Assets - - -
 ###### In Deployment - -
 
 
 ###### In Reserve - -
+**First Parsec Expeditionary Division -**
+- *Ceryn-class, Rukht-type Central Supply and Production Vessel* [1]
+	- Autonomous Multi-vessel Fabricator, Chrono-divergent Auto-fabricator Array [1-240]
+		-  86400.00-280-2880(RV)
+- *Ceryn-class, Rukht-type Specialised Carrier Vessel'* [1-6]
+	- Multi-vessel Docking Unit, Maintenance and Resupply Array [1-200]
+		- 80000.00(IT)-140-000(D)
+- **1st Stellar Expeditionary Subdivision**
+	- —
+- **2nd Stellar Expeditionary Subdivision**
+	- —
+- **3rd Stellar Expeditionary Subdivision**
+	- —
+- **4th Stellar Expeditionary Subdivision**
+	- —
+- **5th Stellar Expeditionary Subdivision**
+	- —
+- **1st Surveyor Expeditionary Subdivision**
+	- —
+
+**Second Parsec Expeditionary Division -**
+- *Ceryn-class, Rukht-type Central Supply and Production Vessel* [1]
+	- Autonomous Multi-vessel Fabricator, Chrono-divergent Auto-fabricator Array [1-240]
+		-  86400.00-280-2880(RV)
+- *Ceryn-class, Rukht-type Specialised Carrier Vessel'* [1-5]
+	- Multi-vessel Docking Unit, Maintenance and Resupply Array [1-200]
+		- 80000.00(IT)-240-000(D)
+- **1st Stellar Expeditionary Subdivision**
+	- —
+- **2nd Stellar Expeditionary Subdivision**
+	- —
+- **3rd Stellar Expeditionary Subdivision**
+	- —
+- **1st Scientific Expeditionary Subdivision**
+	- —
+- **1st Surveyor Expeditionary Subdivision**
+	- —
+
+**Third Parsec Expeditionary Division -**
+- *Ceryn-class, Rukht-type Central Supply and Production Vessel* [1]
+	- Autonomous Multi-vessel Fabricator, Chrono-divergent Auto-fabricator Array [1-240]
+		-  86400.00-280-2880(RV)
+- *Ceryn-class, Rukht-type Specialised Carrier Vessel'* [1-5]
+	- Multi-vessel Docking Unit, Maintenance and Resupply Array [1-200]
+		- 80000.00(IT)-240-000(D)
+- **1st Stellar Expeditionary Subdivision**
+	- —
+- **2nd Stellar Expeditionary Subdivision**
+	- —
+- **3rd Stellar Expeditionary Subdivision**
+	- —
+- **1st Surveyor Expeditionary Subdivision**
+	- —
+- **1st Void Expeditionary Subdivision**
+	- —
+
+**Fourth Parsec Expeditionary Division -**
+- *Ceryn-class, Rukht-type Central Supply and Production Vessel* [1]
+	- Autonomous Multi-vessel Fabricator, Chrono-divergent Auto-fabricator Array [1-240]
+		-  86400.00-280-2880(RV)
+- *Ceryn-class, Rukht-type Specialised Carrier Vessel'* [1-4]
+	- Multi-vessel Docking Unit, Maintenance and Resupply Array [1-200]
+		- 80000.00(IT)-240-000(D)
+- **1st Stellar Expeditionary Subdivision**
+	- —
+- **2nd Stellar Expeditionary Subdivision**
+	- —
+- **1st Surveyor Expeditionary Subdivision**
+	- —
+- **1st Autonomous Acquisition Subdivision**
+	- —
+
+
 
 
 ##### Terrestrial Assets - - -
@@ -68,8 +131,36 @@ category: hidden
 
 
 ###### In Reserve - -
+**Salvation Guard, Gehenna Tessellation**
+- *Agent Production Division*
+	- 34000000.00(I)-2400-7200(C)
+- *Advanced Technological Research and Development Division*
+	- 21600000.00(I)-4000-136000(C)
 
-
+##### Number of individual units:
+**Deployed:**
+- *Extradimensional*: 
+	- —
+- *Spaceborne*: 
+	- —
+- *Terrestrial*: 
+	- —
+**Reserved:**
+- *Extradimensional*: 
+	- Specialised Voidbound Command and Control Akadht [36]
+	- Specialised Voidbound Reactionary Area Control Akadht [6]
+	- Specialised Voidbound Attack and Assault Akadht [6]
+- *Spaceborne*: 
+	- Ceryn-class, Rukht-type Central Supply and Production Vessel [4]
+	- Ceryn-class, Rukht-type Specialised Carrier Vessel [20]
+- *Terrestrial*: 
+**Potential:**
+- *Extradimensional*:
+	- 15,640 Vessels
+- *Spaceborne*:
+	- 1,945,600 Vessels
+- *Terrestrial*:
+	- 34,000,000 Agents
 
 <b><i><center>Blessed be Our Voyage, we serve you, Greatest Overseer.</center></i></b>
 
