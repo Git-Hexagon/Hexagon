@@ -147,20 +147,32 @@ category: hidden
 	- —
 **Reserved:**
 - *Extradimensional*: 
-	- Specialised Voidbound Command and Control Akadht [36]
-	- Specialised Voidbound Reactionary Area Control Akadht [6]
-	- Specialised Voidbound Attack and Assault Akadht [6]
+	- Specialised Voidbound Command and Control Akadht [36x]
+		- 120 vessels on standby
+	- Specialised Voidbound Reactionary Area Control Akadht [6x]
+		- 120 vessels on standby
+	- Specialised Voidbound Attack and Assault Akadht [6x]
+		- 120 vessels on standby
 - *Spaceborne*: 
-	- Ceryn-class, Rukht-type Central Supply and Production Vessel [4]
-	- Ceryn-class, Rukht-type Specialised Carrier Vessel [20]
+	- Ceryn-class, Rukht-type Central Supply and Production Vessel [4x]
+		- 960 vessels on standby
+	- Ceryn-class, Rukht-type Specialised Carrier Vessel [20x]
+		- 4000 vessels on standby
 - *Terrestrial*: 
+	- —
+- ***Total***:
+	- 5392 vessels in reserve
 **Potential:**
 - *Extradimensional*:
-	- 15,640 Vessels
+	- 15,640 vessels to-be-fabricated
 - *Spaceborne*:
-	- 1,945,600 Vessels
+	- 1,945,600 vessels to-be-fabricated
 - *Terrestrial*:
-	- 34,000,000 Agents
+	- 34,000,000 agents to-be-fabricated
+- ***Total***:
+	- 1,961,240 possible vessels that can be repaired/fabricated
+	- 34,000,000 possible agents that can be fabricated
+	- 21,600,000 possible vehicles that can be fabricated
 
 <b><i><center>Blessed be Our Voyage, we serve you, Greatest Overseer.</center></i></b>
 
