@@ -55,7 +55,7 @@ category: hidden
 > Operating under a microtangent, Expeditionary Divisions are small, specialised fleets of vessels designed to operate within specific areas.
 
 ##### Parsec Expeditionary Division
-> A military unit consisting of mainly anti-spacecraft vessels. Used to defend space-bound military installations or combat enemy interstellar fleets. Some or most ships can carry surface-based troops for planetary assaults.
+> A very flexible military unit that's used to conduct interstellar to interplanetary actions within a given area of operations. May perform actions and objectives such as creating and defending a military outpost behind enemy lines, to staging planetary assaults on a hostile world.
 
 ##### Stellar Expeditionary Division/Subdivision
 > A military unit consisting of anti-spacecraft vessels and carrier vessels. Used to carry out tasks within stellar systems. Harbours a multitude of surface-based units for planetary assaults and takeovers. Smaller units of this type may be assigned to a Parsec Expeditionary Division as a subdivision.
@@ -76,6 +76,6 @@ category: hidden
 > The largest Void-based military formation that the Neo-Hexagon is willing to create. Anything larger is a detriment due to how dangerous the Void is.
 
 ##### Void Division/Subdivision
-> Consists of several void-bound interceptors. Deployed to intercept voidbound vessels breaching to and from voidspace close to Neo-Hexagon borders. Vessels may also carry reality-based munitions and payloads to act as an instantaneous quick-reaction force. Smaller units of this type may be assigned to a Parsec Expeditionary Division as a subdivision.
+> Consists of several void-bound interceptors. Deployed to intercept voidbound vessels breaching to and from voidspace close to Neo-Hexagon borders. Vessels may also carry reality-based munitions and payloads to act as an instantaneous quick-reaction force. Smaller units of this type may be assigned to a Parsec Expeditionary Division as an expeditionary subdivision.
 
 ## Extrareality-bound Units
