@@ -145,6 +145,9 @@ category: hidden
 	- —
 - *Terrestrial*: 
 	- —
+- ***Total***:
+	- None currently deployed.
+
 **Reserved:**
 - *Extradimensional*: 
 	- Specialised Voidbound Command and Control Akadht [36x]
@@ -161,7 +164,8 @@ category: hidden
 - *Terrestrial*: 
 	- —
 - ***Total***:
-	- 5392 vessels in reserve
+	- 5392 vessels in reserve.
+
 **Potential:**
 - *Extradimensional*:
 	- 15,640 vessels to-be-fabricated
@@ -170,9 +174,9 @@ category: hidden
 - *Terrestrial*:
 	- 34,000,000 agents to-be-fabricated
 - ***Total***:
-	- 1,961,240 possible vessels that can be repaired/fabricated
-	- 34,000,000 possible agents that can be fabricated
-	- 21,600,000 possible vehicles that can be fabricated
+	- 1,961,240 possible vessels that can be repaired/fabricated after Interlink supply has been cut off.
+	- 34,000,000 possible agents that can be fabricated after Interlink supply has been cut off.
+	- 21,600,000 possible vehicles that can be fabricated after Interlink supply has been cut off.
 
 <b><i><center>Blessed be Our Voyage, we serve you, Greatest Overseer.</center></i></b>
 
