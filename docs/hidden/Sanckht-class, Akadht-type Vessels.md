@@ -38,7 +38,7 @@ The type `Chrono-divergent Auto-fabricator Array [1-4]`, as well as the designat
 - It is capable of producing 105 ships a minute.
 - It is currently designed for instantaneous Void deployment.
 
-> Gehenna's Third Expeditionary Microtangent, First Parsec Division
+> Gehenna's First Expeditionary Microtangent, First Parsec Division
 > - *Ceryn-class, Rukht-type Central Supply and Production Vessel, 'Genesis'* [1]
 > 	- Autonomous Multi-vessel Fabricator, Chrono-divergent Auto-fabricator Array [1-24]
 > 		- 86400.00-384-2880(RV)
