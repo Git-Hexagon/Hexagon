@@ -57,17 +57,17 @@ category: hidden
 ##### Parsec Expeditionary Division
 > A military unit consisting of mainly anti-spacecraft vessels. Used to defend space-bound military installations or combat enemy interstellar fleets. Some or most ships can carry surface-based troops for planetary assaults.
 
-##### Stellar Expeditionary Division
-> A military unit consisting of anti-spacecraft vessels and carrier vessels. Used to carry out tasks within stellar systems. Harbours a multitude of surface-based units for planetary assaults and takeovers.
+##### Stellar Expeditionary Division/Subdivision
+> A military unit consisting of anti-spacecraft vessels and carrier vessels. Used to carry out tasks within stellar systems. Harbours a multitude of surface-based units for planetary assaults and takeovers. Smaller units of this type may be assigned to a Parsec Expeditionary Division as a subdivision.
 
-##### Scientific Expeditionary Division
-> A unit consisting of research-based and sensor-equipped vessels protected by several combat vessels. Carries a large surface-based military force for acquisition, securement, and capture.
+##### Scientific Expeditionary Division/Subdivision
+> A unit consisting of research-based and sensor-equipped vessels protected by several combat vessels. Carries a large surface-based military force for acquisition, securement, and capture. Smaller units of this type may be assigned to a Parsec Expeditionary Division as a subdivision.
 
-##### Surveyor Expeditionary Division
-> A small military unit consisting of at least two sensor-equipped vessels and their escorts. Used exclusively by Pre-Combat Expeditionary Tangents, these formations are not combat-capable in any way.
+##### Surveyor Expeditionary Division/Subdivision
+> A small military unit consisting of at least two sensor-equipped vessels and their escorts. Used exclusively by Pre-Combat Expeditionary Tangents, these formations are not combat-capable in any way. Smaller units of this type may be assigned to a Parsec Expeditionary Division as a subdivision.
 
-##### Autonomous Acquisition Division
-> A military unit consisting of autonomous units designed to follow one of three functions: propagate, consume, or protect. Propagate causes autonomous units to spread rapidly across star systems and astronomical bodies. Minor outposts are then built on capable ground, and are handled by autonomous units. Consume causes the disintegration and extraction of mass. Protect allows autonomous units to lay dormant and await further orders.
+##### Autonomous Acquisition Division/Subdivision
+> A military unit consisting of autonomous units designed to follow one of three functions: propagate, consume, or protect. Propagate causes autonomous units to spread rapidly across star systems and astronomical bodies. Minor outposts are then built on capable ground, and are handled by autonomous units. Consume causes the disintegration and extraction of mass. Protect allows autonomous units to lay dormant and await further orders. Smaller units of this type may be assigned to a Parsec Expeditionary Division as a subdivision.
 
 ## Surface-bound Units
 
@@ -75,7 +75,7 @@ category: hidden
 ### Voidbound Division
 > The largest Void-based military formation that the Neo-Hexagon is willing to create. Anything larger is a detriment due to how dangerous the Void is.
 
-##### Void Division
-> Consists of several void-bound interceptors. Deployed to intercept voidbound vessels breaching to and from voidspace close to Neo-Hexagon borders. Vessels may also carry reality-based munitions and payloads to act as an instantaneous quick-reaction force.
+##### Void Division/Subdivision
+> Consists of several void-bound interceptors. Deployed to intercept voidbound vessels breaching to and from voidspace close to Neo-Hexagon borders. Vessels may also carry reality-based munitions and payloads to act as an instantaneous quick-reaction force. Smaller units of this type may be assigned to a Parsec Expeditionary Division as a subdivision.
 
 ## Extrareality-bound Units
