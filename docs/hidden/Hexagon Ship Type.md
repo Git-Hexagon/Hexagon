@@ -127,11 +127,15 @@ Void Gate
 #### Types of Sanckht
 **Akadht**
 > Generalised Assault Vessel
-> Small and fast vessels that are usually accompanied by large swarms of smaller and quicker unmanned attack craft. These unmanned craft usually act as sword and shield to these vessels, pestering larger ships while the Akadht attacks with its stronger weaponry, or taking the brunt of incoming attacks that could easily defeat it. Some variants of the Akadht are capable of creating more drones, at the cost of having one or more of its modules replaced with fabricators, leading to diminished performance in the modules it replaced. A select few Akadht types have real space drives installed.
+> Fast vessels that are usually accompanied by large swarms of smaller and quicker unmanned attack craft. These unmanned craft usually act as sword and shield to these vessels, pestering larger ships while the Akadht attacks with its stronger weaponry, or taking the brunt of incoming attacks that could easily defeat it. Some variants of the Akadht are capable of creating more drones, at the cost of having one or more of its modules replaced with fabricators, leading to diminished performance in the modules it replaced. A select few Akadht types have real space drives installed.
+
+**Paelor**
+> Specialised Attack Craft
+> Small, lightweight vessels whose smaller variations are usually controlled remotely by Akadht vessels, these spacecraft are separated into two distinct categories, both differing in purpose. One such type of Paelor, the strike-variation, is suited for lightning fast attacks delivered through hit-and-warp tactics, designed to harass or even destroy enemy vessels in one quick strike. The other type, the persistence-variation, is more reserved for prolonged combat, having much more manoeuvrability than its other counterpart.
 
 **Giywn**
 > Interceptor Unit
-> Extremely small vessels that have several built-in warp drives and time-manipulation modules whose main purpose is to track down and follow or destroy warping spacecraft. Some variants are best suited for tracking and marking locations, while others are best suited for combat and actual interception.
+> Extremely small vessels that have several built-in warp drives and time-manipulation modules whose main purpose is to track down and follow or destroy warping spacecraft. Some variants are best suited for tracking and marking locations, while others are best suited for combat and actual interception. Smaller unmanned Giywn are usually found stationed within reactionary docks or in Akadht arrays, prepared to deploy at a moment's notice.
 
 **Vetzcht**
 > Specialised Support-Combat Vessel
