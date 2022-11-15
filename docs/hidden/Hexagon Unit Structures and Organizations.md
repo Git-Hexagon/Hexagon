@@ -9,7 +9,7 @@ category: hidden
 
 # Hexagon Unit Structures and Organizations
 
-> An index containing most, if not all of the Hexagon, Neo-Hexagon, and the Regime's unit formations, structures, and organizations.
+> An index containing most, if not all of the [[The Hexagon|Hexagon]], Neo-Hexagon, and the Regime's unit formations, structures, and organizations.
 > 
 > This page will only contain minor descriptions.
 ---
@@ -72,10 +72,10 @@ category: hidden
 ## Surface-bound Units
 
 ## Voidbound Units
-
-## Extrareality-bound Units
 ### Voidbound Division
 > The largest Void-based military formation that the Neo-Hexagon is willing to create. Anything larger is a detriment due to how dangerous the Void is.
 
 ##### Void Division
 > Consists of several void-bound interceptors. Deployed to intercept voidbound vessels breaching to and from voidspace close to Neo-Hexagon borders. Vessels may also carry reality-based munitions and payloads to act as an instantaneous quick-reaction force.
+
+## Extrareality-bound Units
